@@ -1,5 +1,4 @@
-```java
-# ctgj027
+#ctgj027
 ---
 sort: 1
 ---
