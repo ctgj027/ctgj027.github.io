@@ -1,3 +1,6 @@
+```java
+publuc static main
+```
 #ctgj027
 ---
 sort: 1
